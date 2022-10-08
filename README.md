@@ -3,3 +3,4 @@ This repo contains one of my Labs from my Web Dev course at SAIT. This one invol
 # What I learned
 •Utilizing server attributes to a greater extent
 •Apache Tomcat Server logic
+•Using BufferedReader objects
